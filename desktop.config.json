@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "harness": {
     "package": "@deepseek-ai/dsh",
-    "version": "0.1.0-rc.6",
+    "version": "0.2.1-rc.5",
     "bin": "lib/bin.js",
-    "integrity": "sha512-brpZfED7ieRa2PQ5tUxMhHrM1pb2CmKFVM/f6yMULBDMicahk+Z2OsHgTwTDnoiZm23Ftu9rQz0NN4pflaoJcg==",
-    "tarball": "https://registry.npmjs.org/@deepseek-ai/dsh/-/dsh-0.1.0-rc.6.tgz"
+    "integrity": "sha512-WkyJZv4zl9sCAxSzRctGm58m0rilGqwR6pniBiLOz5CPDfHfDuAUicg0AAazXI7oj/Cph6/cjNTncA/rpLTXpw==",
+    "tarball": "https://registry.npmjs.org/@deepseek-ai/dsh/-/dsh-0.2.1-rc.5.tgz"
   },
   "node": {
     "version": "24.11.1",
